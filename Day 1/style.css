@@ -10,10 +10,26 @@ body,html {
   font-family: sans-serif;
 }
 
-.keys {
+.keys-1 {
   display: flex;
   flex: 1;
-  min-height: 100vh;
+  min-height: 32vh;
+  align-items: center;
+  justify-content: center;
+}
+
+.keys-2 {
+  display: flex;
+  flex: 1;
+  min-height: 32vh;
+  align-items: center;
+  justify-content: center;
+}
+
+.keys-3 {
+  display: flex;
+  flex: 1;
+  min-height: 32vh;
   align-items: center;
   justify-content: center;
 }
