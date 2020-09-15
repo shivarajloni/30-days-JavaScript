@@ -40,7 +40,7 @@ html {
     display: flex;
     flex-direction: column;
   }
-
+            /* added my local directory img files (U can add YOUR local dir. images) */
   .panel1 { background-image:url("./image\ 1.jpg"); }
   .panel2 { background-image:url("./image\ 2.jpg"); }
   .panel3 { background-image:url("./img\ 3.jpg"); }
