@@ -1,5 +1,5 @@
  // ## Array Cardio Day 2
-
+                            // Learnt: .some(), .every(), .find(), [...spreads]
  const people = [
     { name: 'Wes', year: 1988 },
     { name: 'Kait', year: 1986 },
